@@ -1,0 +1,15 @@
+.pirmakaste {    
+  border-style: solid;
+  border-color: green;
+  background-color: lightblue;
+  padding: 10%;
+  margin: 30%;
+}
+
+.kaste {    
+  border-style: dotted;
+  border-color: blue;
+  background-color: lightblue;
+  padding: 10px 10px 10px 10px;
+  margin: 50px 20px 50px 20px;
+}
